@@ -62,6 +62,10 @@ export default function RootLayout({
   return (
     <html lang="fa" dir="rtl">
       <head>
+        <meta
+          name="google-site-verification"
+          content="HZhP16ZXMP1qQeVXUf_xJIkXcuoiUpikfcwn81kEf4c"
+        />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
